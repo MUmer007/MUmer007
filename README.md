@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">
-Data Science Undergraduate 🎓 | 5th-Semester BS Data Science Student  
+Data Scientist | 94.38% ML Accuracy @ NASA Space Apps 2025  | Python · SQL · LLMs
 </h3>
 
 <p align="center">
