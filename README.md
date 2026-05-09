@@ -19,13 +19,11 @@ Data Scientist | 94.38% ML Accuracy @ NASA Space Apps 2025  | Python · SQL · L
 
 ---
 
-## 👨‍💻 About Me
-🎓 5th-semester **Data Science undergraduate**  
-📊 Passionate about **Machine Learning, Data Analysis & Visualization**  
-🐍 Strong focus on **Advanced Python & real-world projects**  
-🤝 Open to **collaborations, internships, and learning opportunities**
-
-📫 **Reach me at:** `muhammmadumer50@gmail.com`
+`Data Scientist & AI/ML Engineer building real-world solutions.
+Currently interning @ Patriotix — shipping ML pipelines, Python automation & AI-powered features.
+NASA Space Apps 2025 participant — 94.38% accuracy on asteroid hazard classification.
+Python · SQL · Scikit-learn · Pandas · Django · LLMs · Claude AI
+📫 muhammmadumer50@gmail.com
 
 ---
 
